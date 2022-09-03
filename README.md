@@ -8,16 +8,19 @@ The WVS 2022 dataset is not part of this repo, and is personally distributed aft
 
 * Link: https://www.worldvaluessurvey.org/WVSContents.jsp
 older years of the World Value Survey datasets (last wave Slovakia participated in is Wave 3), in the left corner, Data and Documentation > Data Download > Wave * 
-* SAV Archive (in which you can find Ako sa máte Slovensko as well as other interesting datasets)
+
+##Slovak Archive of Social Data (SAV Archive)
+
+In the SAV Archive, you can find *Ako sa máte Slovensko* as well as other interesting datasets
 
 * http://sasd.sav.sk/sk/data_katalog.php
 It is necessary to fill in your email to receive the requested dataset
 
-## Eurobarometer
+## Eurobarometer - public opinion in the European Union
 * https://europa.eu/eurobarometer/surveys/browse/all/theme/000006
-Eurostat 
 
+## Eurostat - Statistical Office of the European Union
 * https://ec.europa.eu/eurostat/data/database
-EVS
 
+## European Value Study (EVS)
 * https://europeanvaluesstudy.eu/methodology-data-documentation/data-and-documentation/

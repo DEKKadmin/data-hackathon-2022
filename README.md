@@ -9,7 +9,7 @@ The WVS 2022 dataset is not part of this repo, and is personally distributed aft
 * Link: https://www.worldvaluessurvey.org/WVSContents.jsp
 older years of the World Value Survey datasets (last wave Slovakia participated in is Wave 3), in the left corner, Data and Documentation > Data Download > Wave * 
 
-##Slovak Archive of Social Data (SAV Archive)
+## Slovak Archive of Social Data (SAV Archive)
 
 In the SAV Archive, you can find *Ako sa máte Slovensko* as well as other interesting datasets
 
